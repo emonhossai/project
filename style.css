@@ -43,3 +43,12 @@
 .card-footer{
     background-color: seagreen;
 }
+#subscribe{
+    background-color: #fceae8;
+    height: 300px;
+  
+}
+#footer p{
+    text-align: center;
+    text-shadow: .5px 1px hotpink;
+}
