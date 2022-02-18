@@ -8,3 +8,12 @@
 .dropdown-item:hover{
     background-color: pink;
 }
+#head{
+    text-align: center;
+    background-image: linear-gradient(30deg, pink,hotpink);
+    padding: 20px 20px;
+    border-radius: 50%;
+}
+.container{
+    margin-bottom: 100px;
+}
