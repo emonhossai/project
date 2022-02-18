@@ -1,0 +1,10 @@
+#black{
+    color: black;
+}
+.dropdown-item{
+    text-shadow: .5px .5px hotpink;
+    font-style: italic;
+}
+.dropdown-item:hover{
+    background-color: pink;
+}
