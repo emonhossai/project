@@ -17,3 +17,17 @@
 .container{
     margin-bottom: 100px;
 }
+.carousel-item{
+    padding: 20px 40px;
+}
+.bg-orange{
+    background-color: #fceae8;
+    border-radius: 5%;
+}
+.price{
+    color: hotpink;
+}
+.buy-now{
+    background-image: linear-gradient(10deg,hotpink,pink);
+    border-color: seagreen;
+}
